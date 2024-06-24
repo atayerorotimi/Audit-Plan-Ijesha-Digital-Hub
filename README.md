@@ -4,12 +4,12 @@ This repository contains a comprehensive audit plan for Ijesha Digital Hub. The 
 
 ## Contents
 
-- [Introduction](#01-Introduction.md)
-- [Audit Objectives](#audit-objectives)
-- [Scope of the Audit](#scope-of-the-audit)
-- [Audit Methodology](#audit-methodology)
-- [Risk Assessment](#risk-assessment)
-- [Audit Procedures](#audit-procedures)
-- [Reporting](#reporting)
-- [Follow-Up](#follow-up)
-- [Conclusion](#conclusion)
+- [Introduction](01-Introduction.md)
+- [Audit Objectives](02-Audit-Objectives.md)
+- [Scope of the Audit](03-Scope-of-the-Audit.md)
+- [Audit Methodology](04-Audit-Methodology.md)
+- [Risk Assessment](05-Risk-Assessment.md)
+- [Audit Procedures](06-Audit-Procedures.md)
+- [Reporting](07-Reporting.md)
+- [Follow-Up](08-Follow-Up.md)
+- [Conclusion](09-Conclusion.md)
